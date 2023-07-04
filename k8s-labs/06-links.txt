@@ -1,0 +1,7 @@
+[1]https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html 
+
+Cliente AWS
+[2]https://docs.aws.amazon.com/eks/latest/userguide/getting-started-console.html#gs-console-install-awscli
+
+AWS-IAM-Authenticator
+[3]https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html
