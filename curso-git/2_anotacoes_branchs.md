@@ -97,7 +97,7 @@ de solução e não perder o código;
 >1. É importante ter cuidado na remoção da stash pois essa remoção é permanente.
 
 ## Usando Tags `git tag`
-Aula que vi isso foi -> https://www.youtube.com/watch?v=hVjwdxZTqVY
+Aula que vi isso foi -> https://www.youtube.com/watch?v=CqJvlBXgCfc&ab_channel=RinaldoDev
 
 - Tags são basicamente etiquetas dos seus commits;
 - O comando para criar uma tag baseada no seu último commit é o:
